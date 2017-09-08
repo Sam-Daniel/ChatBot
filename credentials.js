@@ -20,10 +20,10 @@
     // Initialize Firebase
    
  var credentialsConfig = {
-        apiKey: "AIzaSyBV5PiUUxluc5ISR2hcItUH0T7HEH6_ENo",
-        authDomain: "chatinterfacedb.firebaseapp.com",
-        databaseURL: "https://chatinterfacedb.firebaseio.com",
-        projectId: "chatinterfacedb",
-        storageBucket: "chatinterfacedb.appspot.com",
-        messagingSenderId: "922251038710"
+         apiKey: "AIzaSyBeboWHuvE2xJXFtScEITew8wvCs8jLImY",
+    authDomain: "food-delivery-92208.firebaseapp.com",
+    databaseURL: "https://food-delivery-92208.firebaseio.com",
+    projectId: "food-delivery-92208",
+    storageBucket: "food-delivery-92208.appspot.com",
+    messagingSenderId: "663305387608"
     };
