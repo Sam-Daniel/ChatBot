@@ -19,3 +19,11 @@
 
     // Initialize Firebase
    
+ var credentialsConfig = {
+        apiKey: "AIzaSyBV5PiUUxluc5ISR2hcItUH0T7HEH6_ENo",
+        authDomain: "chatinterfacedb.firebaseapp.com",
+        databaseURL: "https://chatinterfacedb.firebaseio.com",
+        projectId: "chatinterfacedb",
+        storageBucket: "chatinterfacedb.appspot.com",
+        messagingSenderId: "922251038710"
+    };
