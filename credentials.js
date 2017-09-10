@@ -6,7 +6,7 @@
     var credentialsAccessToken ="26a12e4b2f1347bba375bb1deffb8fb2";
 
     //var bot name is used for the firebase database
-    var credentialsBotName = "Emoji Bot";
+    var credentialsBotName = "Food-Delivery";
 
 
     // // HighSchoolAna(Dev)
