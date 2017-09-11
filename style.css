@@ -6,7 +6,7 @@
 }
 
 body {
-    background: darkgray;
+    background: #00ffffff;
 }
 
 .chatbox {
@@ -109,8 +109,8 @@ body {
     flex-flow: row wrap;
     align-items: flex-start;
     margin: 0px auto 0px auto;
-    background: orange;
-    border-radius: 10px 10px 0px 0px;
+    background: #6495ED;
+    border-radius: 280px 28px 0px 0px;
 }
 
 .headerBar .title {
@@ -136,7 +136,8 @@ body {
 
 #inputDiv {
     width: 75%;
-    margin-right: 15px;
+    margin-right: 3cm;
+    margin-left: 3cm;
     
 }
 
