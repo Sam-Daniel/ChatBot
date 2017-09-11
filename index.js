@@ -39,7 +39,7 @@ var lastRecievedMessage = 1;
 var ButtonClicked = false;
 
 
-var DEFAULT_TIME_DELAY = 3000;
+var DEFAULT_TIME_DELAY = 0;
 
 // Variable for the chatlogs div
 var $chatlogs = $('.chatlogs');
@@ -70,7 +70,7 @@ $('document').ready(function(){
 $(function () {
   $(".button-open").hide();
   $(".button-close").bind("click", function () {
-    $(".box").hide(100);        
+    $(".chatbox").hide(100);        
 
     if ($(this).attr("class") == "button-close")
     {
@@ -80,7 +80,7 @@ $(function () {
 });
 
 $(".button-open").bind("click", function () {
-    $(".box").show(100);        
+    $(".chatbox").show(100);        
     if ($(this).attr("class") == "button-open")
     {
       $(".button-open").hide();
