@@ -67,25 +67,17 @@ $('document').ready(function(){
 
 	});
 
-$(function () {
-  $(".button-open").hide();
-  $(".button-close").bind("click", function () {
-    $(".chatbox").hide(100);        
-
-    if ($(this).attr("class") == "button-close")
-    {
-      $(".button-open").show();
+	
+	$(".button-open").click(function(){
+    if($(this).html() == "-"){
+        $(this).html("+");
     }
-  });
+    else{
+        $(this).html("-");
+    }
+    $("#box").slideToggle();
 });
 
-$(".button-open").bind("click", function () {
-    $(".chatbox").show(100);        
-    if ($(this).attr("class") == "button-open")
-    {
-      $(".button-open").hide();
-    }
-  });
 
 
 	//----------------------User Sends Message Methods--------------------------------//
