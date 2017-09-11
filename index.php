@@ -13,12 +13,13 @@
 
     <body>
         
-        <div class="headerBar">
+        
+        
+        <div class="chatbox"> 
+		<div class="headerBar">
                 <div class="user-photo"><img src="Images/ana.JPG"></div>
                 <p class="title">Ana Datanautix</p>
         </div>
-        
-        <div class="chatbox">
 
             <div class="chatlogs">
             
