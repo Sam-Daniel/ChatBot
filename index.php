@@ -12,8 +12,7 @@
     </head>
 
     <body>
-	    <div class="button-open">Let's Chat</div>
-
+	    
                
                 
            
@@ -21,12 +20,14 @@
 	    <div class="headerBar">
                 <div class="user-photo"><img src="https://i.pinimg.com/736x/f1/86/78/f18678b7fc471157b01330df6b072f11--korean-artist-pencil-portrait.jpg"></div>
                 <p class="title">Emmot</p>
+		    <div class="button-open">-</div>
+
         </div>
 
         
         
         <div class="chatbox"> 
-	  <div class="button-close">^</div>
+	  
             <div class="chatlogs">
             
                 <div class="chat friend">
