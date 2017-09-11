@@ -36,7 +36,7 @@
                 </div>
 
                 <div class="chat friend" id="loadingGif" style="display: none;">
-                    <div class="user-photo"><img src="Images/ana.JPG"></div>
+                    <div class="user-photo"><img src="https://i.pinimg.com/736x/f1/86/78/f18678b7fc471157b01330df6b072f11--korean-artist-pencil-portrait.jpg"></div>
                     <div class="gif"><img src="Images/loading.gif"></div>
                 </div>
 
