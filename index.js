@@ -68,15 +68,6 @@ $('document').ready(function(){
 	});
 
 	
-	$(".button-open").click(function(){
-    if($(this).html() == "-"){
-        $(this).html("+");
-    }
-    else{
-        $(this).html("-");
-    }
-    $(".chatbox").slideToggle();
-});
 
 
 
