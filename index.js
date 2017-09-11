@@ -75,7 +75,7 @@ $('document').ready(function(){
     else{
         $(this).html("-");
     }
-    $("#box").slideToggle();
+    $(".chatbox").slideToggle();
 });
 
 
