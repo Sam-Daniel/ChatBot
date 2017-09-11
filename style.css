@@ -11,30 +11,21 @@ body {
 
 .chatbox {
      background-color: #FFFFFF;
-  width: 360px;
-  height: 640px;
-  -webkit-box-shadow: 0px 0px 17px 2px rgba(0, 0, 0, 0.22);
-  box-shadow: 0px 0px 17px 2px rgba(0, 0, 0, 0.22);
-  overflow: hidden;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
+     width: 360px;
+    height: 640px;
+    background: white;
+   
+    margin: 0px auto 20px auto;
+    box-shadow: 0 3px #ccc;
+    border-radius: 0px 0px 10px 10px; 
+    overflow: hidden;
+    position: absolute;
 }
 
 .chatlogs {
     padding: 10px;
     width: 100%;
-    height: 450px;
+    height: 75%px;
     overflow-x: hidden;
     overflow-y: scroll;
     /*background:rgba(200, 200, 200, .1);*/
@@ -213,6 +204,14 @@ body {
 .buttonResponse:hover{
         background: rgb(100, 200, 255);
 }
+
+iframe {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+
 /*
 #switchInputDiv {
     position: fixed;
