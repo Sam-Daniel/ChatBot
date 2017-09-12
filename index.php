@@ -44,7 +44,7 @@
 
             <div class="chat-form">
                 <div id="inputDiv" autofocus/>
-                    <textarea class="input" type="text" name="" value="" placeholder="Say something" autofocus></textarea>
+                    <textarea class="input" type="text" autofocus></textarea>
                 </div>
                 <div id="chat-form-buttons">
                     <input type ="image"id="rec" src="Images/microphone.png">
