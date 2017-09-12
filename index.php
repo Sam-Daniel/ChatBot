@@ -18,7 +18,7 @@
            
         
 	    <div class="headerBar">
-                <div class="user-photo"><img src="https://i.pinimg.com/736x/f1/86/78/f18678b7fc471157b01330df6b072f11--korean-artist-pencil-portrait.jpg"></div>
+                <div class="user-photo"><img src="https://cdnb.artstation.com/p/assets/images/images/001/863/575/large/irakli-nadar-artstation-da.jpg?1453903033"></div>
                 <p class="title"> Mr.Bot </p>
 		    
 
@@ -31,7 +31,7 @@
             <div class="chatlogs">
             
                 <div class="chat friend">
-                    <div class="user-photo"><img src="https://i.pinimg.com/736x/f1/86/78/f18678b7fc471157b01330df6b072f11--korean-artist-pencil-portrait.jpg"></div>
+                    <div class="user-photo"><img src="https://cdnb.artstation.com/p/assets/images/images/001/863/575/large/irakli-nadar-artstation-da.jpg?1453903033"></div>
                     <p class="chat-message">Hello!</p>
                 </div>
 
