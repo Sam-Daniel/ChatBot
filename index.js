@@ -89,6 +89,7 @@ $('document').ready(function(){
 
 			// Clear the text area
 			this.value = "";
+			$( "textarea" ).focus();
 
 			if($("#switchInputType").is(":visible")) {
 				$("#switchInputType").toggle();
