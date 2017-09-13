@@ -47,7 +47,7 @@
                     <textarea class="input" type="text" autofocus></textarea>
                 </div>
                 <div id="chat-form-buttons">
-                    <input type ="image"id="rec" src="Images/microphone.png">
+                    
                     <input type="image" src="Images/keyboard.png" id="switchInputType"/>
                 </div>
                <!--<button id="switchInputType"></button>-->
