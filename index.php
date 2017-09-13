@@ -36,7 +36,7 @@
                 </div>
 
                 <div class="chat friend" id="loadingGif" style="display: none;">
-                    <div class="user-photo"><img src="https://cdnb.artstation.com/p/assets/images/images/001/863/575/large/irakli-nadar-artstation-da.jpg?1453903033"></div>
+                    
                     <div class="gif"><img src="Images/loading.gif"></div>
                 </div>
 
@@ -48,7 +48,7 @@
                 </div>
                 <div id="chat-form-buttons">
                     
-                    <input type="image" src="Images/keyboard.png" id="switchInputType"/>
+      
                 </div>
                <!--<button id="switchInputType"></button>-->
 
