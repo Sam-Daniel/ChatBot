@@ -19,7 +19,7 @@
         
 	    <div class="headerBar">
                 <div class="user-photo"><img src="https://publishmybrand.com/wp-content/uploads/2017/09/mr.tack_.jpg"></div>
-                <p class="title"> JC Boys </p>
+                <p class="title"> Mr.Tack </p>
 		    
 
         </div>
