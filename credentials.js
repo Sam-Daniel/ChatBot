@@ -3,7 +3,7 @@
 //var accessToken = "b56ec2c85b2744ad81aeb6518d30a6ae";
 
     //----------------------- Emoji Bot ----------------------- //
-    var credentialsAccessToken ="26a12e4b2f1347bba375bb1deffb8fb2";
+    var credentialsAccessToken ="04d3da2e369949d2bc28b9dc0ad8ff45";
 
     //var bot name is used for the firebase database
     var credentialsBotName = "Food-Delivery";
