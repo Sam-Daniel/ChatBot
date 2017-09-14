@@ -382,7 +382,7 @@ function createNewMessage(message) {
 	// Append a new div to the chatlogs body, with an image and the text from API.AI
 	$chatlogs.append(
 		$('<div/>', {'class': 'chat friend'}).append(
-			$('<div/>', {'class': 'user-photo'}).append($('<img src="http://media2.intoday.in/indiatoday/images/Photo_gallery/sachin-3_031812120617.jpg" />')), 
+			$('<div/>', {'class': 'user-photo'}).append($('<img src="http://junkcarboys.com/wp-content/uploads/2015/10/JoelProfile.jpg" />')), 
 			$('<p/>', {'class': 'chat-message', 'text': message})));
 
 	// Find the last message in the chatlogs
