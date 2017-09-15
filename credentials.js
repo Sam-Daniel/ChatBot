@@ -6,7 +6,7 @@
     var credentialsAccessToken ="4057db070fa34ec99bdb46f96f13d36d";
 
     //var bot name is used for the firebase database
-    var credentialsBotName = "Food-Delivery";
+    var credentialsBotName = "PB Chat";
 
 
     // // HighSchoolAna(Dev)
@@ -20,10 +20,10 @@
     // Initialize Firebase
    
  var credentialsConfig = {
-         apiKey: "AIzaSyBeboWHuvE2xJXFtScEITew8wvCs8jLImY",
-    authDomain: "food-delivery-92208.firebaseapp.com",
-    databaseURL: "https://food-delivery-92208.firebaseio.com",
-    projectId: "food-delivery-92208",
-    storageBucket: "food-delivery-92208.appspot.com",
-    messagingSenderId: "663305387608"
+         apiKey: "AIzaSyCIsXQiA05v3DCPiSPG39Jp3GUz-59MdF8",
+    authDomain: "pb-wswldm.firebaseapp.com",
+    databaseURL: "https://pb-wswldm.firebaseio.com",
+    projectId: "pb-wswldm",
+    storageBucket: "pb-wswldm.appspot.com",
+    messagingSenderId: "420438465811"
     };
