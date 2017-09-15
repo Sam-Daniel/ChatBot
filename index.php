@@ -5,7 +5,7 @@
          <link rel="stylesheet" type="text/css" href="style.css">
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.js"></script>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://www.gstatic.com/firebasejs/4.1.3/firebase.js"></script>
         <script type="text/javascript" src="credentials.js"></script>
 
